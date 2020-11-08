@@ -46,4 +46,3 @@ export default ({ title, items }) => {
         </div>
     );
 }
-sudo ssh-keygen -t rsa -b 4096 -C "lucianoloopdias@hotmail.com"
